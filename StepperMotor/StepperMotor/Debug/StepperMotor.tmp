@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>D:\Micro\StepperMotor\StepperMotor\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1117\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Micro\StepperMotor\StepperMotor\StepperMotor.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1117\avrassembler\Include\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Micro\StepperMotor\StepperMotor\Debug/StepperMotor.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>StepperMotor.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>StepperMotor.map</FILE>
+  <FILE>StepperMotor.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>D:\Micro\StepperMotor\StepperMotor\StepperMotor.asm</FILE><LINE>13</LINE></start>
+  <turn><FILE>D:\Micro\StepperMotor\StepperMotor\StepperMotor.asm</FILE><LINE>9</LINE></turn>
+  <init><FILE>D:\Micro\StepperMotor\StepperMotor\StepperMotor.asm</FILE><LINE>25</LINE></init>
+  <loop><FILE>D:\Micro\StepperMotor\StepperMotor\StepperMotor.asm</FILE><LINE>33</LINE></loop>
+  <pause><FILE>D:\Micro\StepperMotor\StepperMotor\StepperMotor.asm</FILE><LINE>44</LINE></pause>
+  <COMPARE><FILE>D:\Micro\StepperMotor\StepperMotor\StepperMotor.asm</FILE><LINE>50</LINE></COMPARE>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "StepperMotor", "StepperMotor\StepperMotor.asmproj", "{F331CFAE-3B3D-46CA-9A60-CCC6CF12CD8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F331CFAE-3B3D-46CA-9A60-CCC6CF12CD8D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F331CFAE-3B3D-46CA-9A60-CCC6CF12CD8D}.Debug|AVR.Build.0 = Debug|AVR
+		{F331CFAE-3B3D-46CA-9A60-CCC6CF12CD8D}.Release|AVR.ActiveCfg = Release|AVR
+		{F331CFAE-3B3D-46CA-9A60-CCC6CF12CD8D}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
